@@ -1,2 +1,2 @@
 # CBV2017
-Useful resources for genomic analysis developed in the AM and CM lab
+Useful resources for genomic analysis developed in the AM and CM lab in CBV - UNAB
